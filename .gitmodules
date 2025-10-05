@@ -1,0 +1,6 @@
+[submodule "junctionxFrontEnd"]
+	path = junctionxFrontEnd
+	url = https://github.com/OmegaTurnip/junctionxFrontEnd.git
+[submodule "JunctionX-backend"]
+	path = JunctionX-backend
+	url = https://github.com/Arjun31415/JunctionX-backend.git
